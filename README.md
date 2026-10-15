@@ -79,10 +79,6 @@
   <img src="https://streak-stats.demolab.com?user=pgranadosm&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8" alt="GitHub streak" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/0ea5e9/pgranadosm" alt="Contribution heatmap" width="100%"/>
-</p>
-
 ---
 
 <div align="center">
