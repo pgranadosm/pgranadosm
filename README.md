@@ -56,14 +56,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
-  <img src="https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex"/>
-  <img src="https://img.shields.io/badge/MuleSoft-00A0DF?style=for-the-badge&logo=mulesoft&logoColor=white" alt="MuleSoft"/>
-  <img src="https://img.shields.io/badge/Business_Central-0B53CE?style=for-the-badge&logo=dynamics365&logoColor=white" alt="Business Central"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/salesforce/salesforce-original.svg" height="48" alt="Salesforce" title="Salesforce"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" title="SQL Server"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/powershell/powershell-original.svg" height="48" alt="PowerShell" title="PowerShell"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azuredevops/azuredevops-original.svg" height="48" alt="Azure DevOps" title="Azure DevOps"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/jira/jira-original.svg" height="48" alt="Jira" title="Jira"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge" alt="Apex"/>
+  <img src="https://img.shields.io/badge/MuleSoft-00A0DF?style=for-the-badge" alt="MuleSoft"/>
+  <img src="https://img.shields.io/badge/Business_Central_·_AL-0B53CE?style=for-the-badge" alt="Business Central"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge" alt="Microsoft 365"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&labelColor=F2C811&color=F2C811" alt="Power BI"/>
 </p>
 
 ---
@@ -75,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pgranadosm&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=ffffff" alt="Contribution graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/0ea5e9/pgranadosm" alt="Contribution heatmap" width="100%"/>
 </p>
 
 ---
